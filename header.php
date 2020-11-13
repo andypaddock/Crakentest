@@ -42,7 +42,7 @@
 						'theme_location' => 'lower-menu'
 					) ); ?>
                 </div>
-                <div class="book-now">
+                <div class="mobile-booking">
                     <a href="/contact">Book Now</a>
                 </div>
                 <div id="menu-toggle">
